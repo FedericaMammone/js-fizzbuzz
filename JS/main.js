@@ -36,9 +36,10 @@ for (let i = 1; i <= 100; i++) {
         console.log(quadrato);
     }
     
+    // aggiungiamo al contenitore l'elemento quadrato
     contenitore.innerHTML += quadrato;
     
 }
 
-// aggiungiamo al contenitore l'elemento quadrato
+
 
